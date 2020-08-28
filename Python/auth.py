@@ -3,7 +3,7 @@ import json
 import random
 import os
 
-authgroup = [3, 5, 6, 7, 8, 12, 13]
+authgroup = [3, 5, 6, 7, 8, 12, 13, 19]
 set_a = set(authgroup)
 n = random.randint(0, 22)
 secondarygroup = ""
